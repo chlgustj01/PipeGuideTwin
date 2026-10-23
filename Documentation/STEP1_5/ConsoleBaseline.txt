@@ -1,0 +1,8 @@
+8405504: [22:30:33] <color=#ffaa00>warn:</color> [22:30:33:8958] <color=#B4FF32>[AI]</color> <color=#85C1E2><b>BufferedFileLogStorage</b></color> Flush called but already disposed, ignored.
+UnityEngine.Debug:LogWarning (object)
+8405504: [22:30:40] <color=#ffaa00>warn:</color> [22:30:40:9090] <color=#B4FF32>[AI]</color> <color=#48C9B0><b>McpManagerClientHub</b></color> ConnectionManager[e7dac06a-a1ed-4411-9203-cb006d4c517d] EnsureConnection Connection not available and auto-reconnect disabled for endpoint: /hub/mcp-server
+UnityEngine.Debug:LogWarning (object)
+8405504: [22:30:40] <color=#ffaa00>warn:</color> [22:30:40:9387] <color=#B4FF32>[AI]</color> <color=#48C9B0><b>McpManagerClientHub</b></color> ConnectionManager[e7dac06a-a1ed-4411-9203-cb006d4c517d] EnsureConnection Connection not available and auto-reconnect disabled for endpoint: /hub/mcp-server
+UnityEngine.Debug:LogWarning (object)
+8405504: [22:30:41] <color=#ffaa00>warn:</color> [22:30:41:0485] <color=#B4FF32>[AI]</color> <color=#48C9B0><b>McpManagerClientHub</b></color> ConnectionManager[e7dac06a-a1ed-4411-9203-cb006d4c517d] EnsureConnection Connection not available and auto-reconnect disabled for endpoint: /hub/mcp-server
+UnityEngine.Debug:LogWarning (object)

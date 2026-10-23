@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b094aaf078efa942abceead195bb71a, type: 3}
+  m_Name: HiFiVisualFixtures
+  m_EditorClassIdentifier: Assembly-CSharp::PipeGuideTwin.Data.Mock.HiFiVisualFixtures
+  Initial:
+  - Id: Initial_A
+    PointsMm:
+    - {x: -3000, y: 1500, z: 1000}
+    - {x: -3000, y: 3000, z: 1000}
+    - {x: 3000, y: 3000, z: 1000}
+    - {x: 3000, y: 3000, z: 2000}
+    - {x: 3000, y: 2000, z: 2000}
+  - Id: Initial_B
+    PointsMm:
+    - {x: -3000, y: 1500, z: 1000}
+    - {x: -3000, y: 3550, z: 1000}
+    - {x: 3000, y: 3550, z: 1000}
+    - {x: 3000, y: 3550, z: 2000}
+    - {x: 3000, y: 2000, z: 2000}
+  - Id: Initial_C
+    PointsMm:
+    - {x: -3000, y: 1500, z: 1000}
+    - {x: -3000, y: 4100, z: 1000}
+    - {x: 3000, y: 4100, z: 1000}
+    - {x: 3000, y: 4100, z: 2000}
+    - {x: 3000, y: 2000, z: 2000}
+  Local:
+  - Id: Local_A
+    PointsMm:
+    - {x: 2000, y: 1200, z: -3000}
+    - {x: -1300, y: 1200, z: -3000}
+    - {x: -1300, y: 3100, z: -3000}
+    - {x: -1300, y: 3100, z: 1000}
+    - {x: 0, y: 3100, z: 1000}
+    - {x: 0, y: 2550, z: 1000}
+  - Id: Local_B
+    PointsMm:
+    - {x: 2000, y: 1200, z: -3000}
+    - {x: -650, y: 1200, z: -3000}
+    - {x: -650, y: 3650, z: -3000}
+    - {x: -650, y: 3650, z: 1000}
+    - {x: 0, y: 3650, z: 1000}
+    - {x: 0, y: 2550, z: 1000}
+  - Id: Local_C
+    PointsMm:
+    - {x: 2000, y: 1200, z: -3000}
+    - {x: 700, y: 1200, z: -3000}
+    - {x: 700, y: 4150, z: -3000}
+    - {x: 700, y: 4150, z: 1000}
+    - {x: 0, y: 4150, z: 1000}
+    - {x: 0, y: 2550, z: 1000}
+  Original:
+    Id: Original_Route
+    PointsMm:
+    - {x: 2000, y: 1200, z: -3000}
+    - {x: 0, y: 1200, z: -3000}
+    - {x: 0, y: 2550, z: -3000}
+    - {x: 0, y: 2550, z: 1000}
+  CollisionPositionMm: {x: 0, y: 2550, z: -1600}

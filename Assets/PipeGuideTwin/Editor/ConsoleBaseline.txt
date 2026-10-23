@@ -1,0 +1,6 @@
+Pre-existing before STEP 0: 2026-10-23
+19:18:24 SocketException: connection refused.
+19:18:24 HubConnection Failed to start connection; localhost:29143/hub/mcp-server.
+19:18:24 HubConnection: stop connection in AI Game Developer window.
+19:18:28 McpManagerClientHub AttemptConnection failed: HTTP request error.
+Archived before clearing Console for fresh STEP 0 verification.

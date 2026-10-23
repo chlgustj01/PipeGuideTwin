@@ -1,0 +1,30 @@
+{
+    "passed": true,
+    "error": "",
+    "checks": [
+        "PIPE_001 selection: PASS",
+        "PIPE_001 inspector update: PASS",
+        "PIPE_001 highlight: PASS",
+        "Pipe inspector properties: PASS",
+        "PIPE_002 selection: PASS",
+        "PIPE_002 inspector update: PASS",
+        "Previous pipe highlight restored: PASS",
+        "PIPE_002 highlight: PASS",
+        "EQ_PUMP_001 selection: PASS",
+        "EQ_PUMP_001 inspector update: PASS",
+        "Equipment highlight: PASS",
+        "Equipment inspector: PASS",
+        "Empty-space deselect: PASS",
+        "Inspector reset: PASS",
+        "PIPE_001 selection: PASS",
+        "PIPE_001 inspector update: PASS",
+        "Navigation UI blocks selection: PASS",
+        "Inspector UI blocks selection: PASS",
+        "Orbit: PASS",
+        "Pan: PASS",
+        "Zoom: PASS",
+        "UI blocks camera orbit and zoom: PASS",
+        "Final deselection: PASS"
+    ],
+    "resolution": "1920x1080"
+}

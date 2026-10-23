@@ -1,0 +1,43 @@
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\Data\Mock\MockValidationDataProvider.cs
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\Data\Mock\MockValidationDataProvider.cs.meta
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\Validation\ValidationResultController.cs
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\Validation\ValidationResultController.cs.meta
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\Visualization\ValidationVisualController.cs
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\Visualization\ValidationVisualController.cs.meta
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\UI\ValidationLabels.cs
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\UI\ValidationLabels.cs.meta
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\UI\ValidationPanelUI.cs
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\UI\ValidationPanelUI.cs.meta
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\UI\WorkflowUIController.cs
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\UI\WorkflowUIController.cs.meta
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Editor\StepTwoSceneSetup.cs
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Editor\StepTwoSceneSetup.cs.meta
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Editor\StepTwoPlayVerification.cs
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Editor\StepTwoPlayVerification.cs.meta
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Materials\ValidationWarning.mat
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Materials\ValidationWarning.mat.meta
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Materials\ValidationMismatch.mat
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Materials\ValidationMismatch.mat.meta
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Materials\ValidationDuplicate.mat
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Materials\ValidationDuplicate.mat.meta
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Materials\ValidationMissing.mat
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Materials\ValidationMissing.mat.meta
+MODIFIED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\Core\PipeGuideAppManager.cs
+MODIFIED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\Data\Contracts\IntegrationContracts.cs
+MODIFIED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\Interaction\SelectionManager.cs
+MODIFIED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\Visualization\SelectionHighlight.cs
+MODIFIED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scripts\UI\SelectionInspectorUI.cs
+MODIFIED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Materials\SelectionCyan.mat
+MODIFIED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\Scenes\PipeGuide_Main.unity
+MODIFIED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Assets\PipeGuideTwin\README.md
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Documentation\STEP2\ConsoleMessages.txt
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Documentation\STEP2\Mismatch.png
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Documentation\STEP2\Missing.png
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Documentation\STEP2\Overview.png
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Documentation\STEP2\PlayModeResults.json
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Documentation\STEP2\Verification.md
+CREATED: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Documentation\STEP2\ChangedFiles.txt
+GENERATED TEMP: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Temp\PipeGuideTwin-Step2-Tests.json
+GENERATED TEMP: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Temp\PipeGuideTwin-Step2-Overview.png
+GENERATED TEMP: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Temp\PipeGuideTwin-Step2-Mismatch.png
+GENERATED TEMP: D:\UnityProject\PipeGuideTwin\PipeGuideTwin\Temp\PipeGuideTwin-Step2-Missing.png

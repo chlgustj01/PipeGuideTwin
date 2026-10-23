@@ -1,0 +1,40 @@
+# Unity generated state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE generated files
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+
+# Machine-local agent connections and configuration
+/.codex/
+/.mcp.json
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.pfx
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

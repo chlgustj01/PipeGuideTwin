@@ -1,0 +1,282 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c3ba5f0f9d390947ae97cac192affeb, type: 3}
+  m_Name: ProductShellMockData
+  m_EditorClassIdentifier: Assembly-CSharp::PipeGuideTwin.Data.Mock.ProductShellMockData
+  DataSource: MOCK
+  Pages:
+  - Stage: 0
+    PageName: ProjectPage
+    NavigationLabel: "\uD504\uB85C\uC81D\uD2B8"
+    Title: "\uD504\uB85C\uC81D\uD2B8 \uAC1C\uC694"
+    Subtitle: "\uC120\uBC15 \uBC30\uAD00 \uC124\uACC4 \uAC80\uD1A0\uB97C \uC704\uD55C
+      \uC791\uC5C5 \uACF5\uAC04"
+    ShowsWorld: 0
+    SplitCenter: 0
+    Left:
+    - Title: "\uD504\uB85C\uC81D\uD2B8 \uBAA9\uB85D"
+      Body: "\u25CF \uD30C\uC774\uD504\uAC00\uC774\uB4DC \uD2B8\uC708 \uB370\uBAA8\n\n\uB370\uBAA8
+        \uC120\uBC15\n\uAE30\uAD00\uC2E4\n\uAC1C\uC815 A"
+      Badge: "\uD604\uC7AC \uD504\uB85C\uC81D\uD2B8"
+    - Title: "\uC791\uC5C5 \uBC94\uC704"
+      Body: "\uC124\uACC4 \uB370\uC774\uD130 \uD655\uC778\n3D \uBAA8\uB378 \uAC80\uD1A0\n\uC815\uD569\uC131
+        \uACB0\uACFC \uD655\uC778\n\uACBD\uB85C \uD6C4\uBCF4 \uAC80\uD1A0\n\uC124\uACC4\uC790
+        \uACB0\uC815"
+      Badge: 
+    Center:
+    - Title: "\uD30C\uC774\uD504\uAC00\uC774\uB4DC \uD2B8\uC708"
+      Body: "\uC120\uBC15 \uBC30\uAD00 \uC124\uACC4 \uC815\uD569\uC131 \uAC80\uC0AC\n\uBC0F
+        \uAD6D\uC18C \uC7AC\uC124\uACC4 \uB514\uC9C0\uD138 \uD2B8\uC708\n\n\uB370\uBAA8
+        \uB370\uC774\uD130\uB85C \uC804\uCCB4 \uC791\uC5C5 \uD750\uB984\uC744 \uAC80\uD1A0\uD569\uB2C8\uB2E4."
+      Badge: "\uD504\uB85C\uC81D\uD2B8 \uB300\uC2DC\uBCF4\uB4DC"
+    - Title: "\uD504\uB85C\uC81D\uD2B8 \uC815\uBCF4"
+      Body: "\uD504\uB85C\uC81D\uD2B8   PipeGuide Twin Demo\n\uC120\uBC15         
+        DEMO VESSEL\n\uAD6C\uC5ED          ENGINE ROOM\n\uB9AC\uBE44\uC804      
+        REV.A"
+      Badge: 
+    - Title: "\uAC80\uD1A0 \uC21C\uC11C"
+      Body: "01  \uC124\uACC4 \uB370\uC774\uD130  \u2192  02  3D \uBAA8\uB378\n03 
+        \uC815\uD569\uC131 \uAC80\uC0AC  \u2192  04  \uACBD\uB85C \uCD94\uCC9C\n05 
+        \uAD6D\uC18C \uC7AC\uC124\uACC4  \u2192  06  \uACB0\uACFC \uBE44\uAD50\n07 
+        \uC124\uACC4\uC790 \uC2B9\uC778 / \uC774\uB825"
+      Badge: 
+    Right:
+    - Title: "\uD604\uC7AC \uC0C1\uD0DC"
+      Body: "\uC0C1\uD0DC                \uC900\uBE44 \uC644\uB8CC\n\uB370\uC774\uD130
+        \uC18C\uC2A4      \uB370\uBAA8 (MOCK)\n\uC124\uACC4 \uB2E8\uC704        
+        mm\n\uD654\uBA74 \uB2E8\uC704         m"
+      Badge: "\uAC80\uD1A0 \uC900\uBE44"
+    - Title: "\uC124\uACC4\uC790 \uC911\uC2EC"
+      Body: "\uC2DC\uC2A4\uD15C\uC740 \uBB38\uC81C\uC640 \uB300\uC548\uC744 \uD45C\uC2DC\uD569\uB2C8\uB2E4.\n\n\uCD5C\uC885
+        \uC124\uACC4 \uACB0\uC815\uC740 \uC124\uACC4\uC790\uAC00 \uD569\uB2C8\uB2E4.\n\uC6D0\uBCF8
+        \uBAA8\uB378\uC740 \uBCF4\uC874\uD569\uB2C8\uB2E4."
+      Badge: 
+  - Stage: 1
+    PageName: DataPage
+    NavigationLabel: "\uC124\uACC4 \uB370\uC774\uD130"
+    Title: "\uC124\uACC4 \uB370\uC774\uD130 \uBD88\uB7EC\uC624\uAE30"
+    Subtitle: "Excel \xB7 CSV \uAE30\uBC18 \uAD6C\uC870\uD654 \uB370\uC774\uD130
+      \uC785\uB825 \uD654\uBA74"
+    ShowsWorld: 0
+    SplitCenter: 0
+    Left:
+    - Title: "\uC785\uB825 \uD615\uC2DD"
+      Body: "Excel (.xlsx)\nCSV (.csv)\n\n\uC7A5\uBE44 / \uB178\uC990 / \uBC30\uAD00
+        / \uC5F0\uACB0 \uC815\uBCF4"
+      Badge: "\uAD6C\uC870\uD654 \uB370\uC774\uD130"
+    - Title: "\uB370\uC774\uD130 \uD750\uB984"
+      Body: "\uC6D0\uBCF8 \uC124\uACC4 \uB370\uC774\uD130\n\u2193\n\uC791\uC5C5 \uC0AC\uBCF8\n\u2193\n\uAC80\uD1A0
+        \uBC0F \uBCC0\uACBD \uC774\uB825"
+      Badge: 
+    Center:
+    - Title: "\uC124\uACC4 \uB370\uC774\uD130 \uC5C5\uB85C\uB4DC"
+      Body: "\uC124\uACC4 \uB370\uC774\uD130 \uD30C\uC77C\uC744 \uBD88\uB7EC\uC624\uC138\uC694.\n\nExcel
+        \uB610\uB294 CSV \uD30C\uC77C\uC744 \uC9C0\uC6D0\uD560 \uC608\uC815\uC785\uB2C8\uB2E4.\n\uD604\uC7AC
+        \uD30C\uC77C \uC120\uD0DD \uBC84\uD2BC\uC740 UI \uB370\uBAA8\uC785\uB2C8\uB2E4."
+      Badge: "\uC785\uB825 \uC900\uBE44"
+    - Title: "\uB370\uC774\uD130 \uC694\uC57D"
+      Body: "\uC7A5\uBE44                         3\n\uB178\uC990                        
+        3\n\uC124\uACC4 \uBC30\uAD00                  5\n3D \uBC30\uAD00                   
+        4\n\uC5F0\uACB0                         5"
+      Badge: "\uB370\uBAA8 \uC9D1\uACC4"
+    Right:
+    - Title: "\uB370\uC774\uD130 \uD488\uC9C8"
+      Body: "ID \uC624\uB958                     0\n\uCC38\uC870 \uD0A4 \uC624\uB958             
+        0\n\uC911\uBCF5 \uAC1D\uCCB4                  1\n3D \uB204\uB77D                   
+        1"
+      Badge: "\uB370\uBAA8 \uD488\uC9C8 \uAC12"
+    - Title: "\uC5F0\uACB0 \uC608\uC815"
+      Body: "Excel\uC758 Data_Quality_Check\n\uACB0\uACFC\uB97C \uD45C\uC2DC\uD560
+        \uC601\uC5ED\uC785\uB2C8\uB2E4.\n\n\uD30C\uC77C \uB85C\uB354 \uBC0F DB\uB294
+        \uBBF8\uC5F0\uACB0\uC785\uB2C8\uB2E4."
+      Badge: 
+  - Stage: 2
+    PageName: Model3DPage
+    NavigationLabel: "3D \uBAA8\uB378"
+    Title: "3D \uBAA8\uB378"
+    Subtitle: "\uB370\uBAA8 \uAE30\uAD00\uC2E4 \xB7 \uBC30\uAD00 \uBC0F \uC7A5\uBE44
+      \uC120\uD0DD"
+    ShowsWorld: 1
+    SplitCenter: 0
+    Left:
+    - Title: "\uC2DC\uC2A4\uD15C \uD2B8\uB9AC"
+      Body: "\uAE30\uAD00\uC2E4\n\n\uB0C9\uAC01\uC218 \uACC4\uD1B5\n \u251C PIPE_001\n
+        \u251C PIPE_002\n \u2514 EQ_PUMP_001\n\n\uAC00\uC5F4 \uACC4\uD1B5\n \u251C
+        PIPE_003\n \u2514 EQ_HEATER_001\n\n\uD68C\uC218 \uACC4\uD1B5\n \u2514 PIPE_004"
+      Badge: "\uB370\uBAA8 \uACC4\uD1B5"
+    - Title: "\uBDF0\uC5B4 \uC870\uC791"
+      Body: "\uC67C\uCABD \uD074\uB9AD       \uC120\uD0DD\n\uC624\uB978\uCABD \uB4DC\uB798\uADF8 
+        \uD68C\uC804\n\uAC00\uC6B4\uB370 \uB4DC\uB798\uADF8  \uC774\uB3D9\n\uB9C8\uC6B0\uC2A4
+        \uD720       \uD655\uB300 / \uCD95\uC18C"
+      Badge: 
+    Center: []
+    Right: []
+  - Stage: 3
+    PageName: ConsistencyPage
+    NavigationLabel: "\uC815\uD569\uC131 \uAC80\uC0AC"
+    Title: "\uC815\uD569\uC131 \uAC80\uC0AC"
+    Subtitle: "\uC804\uB2EC\uB41C \uC815\uD569\uC131 \uACB0\uACFC\uC640 3D \uC704\uCE58\uB97C
+      \uD568\uAED8 \uAC80\uD1A0"
+    ShowsWorld: 1
+    SplitCenter: 0
+    Left: []
+    Center: []
+    Right: []
+  - Stage: 4
+    PageName: InitialRoutingPage
+    NavigationLabel: "\uACBD\uB85C \uCD94\uCC9C"
+    Title: "\uCD08\uAE30 \uACBD\uB85C \uCD94\uCC9C"
+    Subtitle: "\uC2DC\uC791 \uBC0F \uB05D \uB178\uC990 \uC0AC\uC774\uC758 \uACBD\uB85C
+      \uD6C4\uBCF4 \uAC80\uD1A0"
+    ShowsWorld: 1
+    SplitCenter: 0
+    Left:
+    - Title: "\uC2DC\uC791 \uB178\uC990"
+      Body: "NZ_PUMP_OUT_01\n\n\uB0C9\uAC01\uC218 \uD38C\uD504 \uCD9C\uAD6C"
+      Badge: "\uC2DC\uC791"
+    - Title: "\uB05D \uB178\uC990"
+      Body: "NZ_TANK_IN_01\n\n\uB0C9\uAC01\uC218 \uD0F1\uD06C \uC785\uAD6C"
+      Badge: "\uB3C4\uCC29"
+    - Title: "\uCD94\uCC9C \uC870\uAC74"
+      Body: "\uC9C1\uAD50 \uACBD\uB85C  X / Y / Z\n\n\uACBD\uB85C \uC0DD\uC131\uC740
+        \uC5F0\uACB0 \uC608\uC815\uC785\uB2C8\uB2E4."
+      Badge: 
+    Center:
+    - Title: "3D \uACBD\uB85C \uC791\uC5C5 \uACF5\uAC04"
+      Body: "\uC2DC\uC791 / \uB05D \uB178\uC990\uACFC \uACBD\uB85C \uD6C4\uBCF4\uB97C\n\uD45C\uC2DC\uD560
+        \uC601\uC5ED\uC785\uB2C8\uB2E4.\n\n\uC544\uC9C1 \uACBD\uB85C \uC120\uC740
+        \uC0DD\uC131\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+      Badge: "\uB370\uBAA8 \uD654\uBA74"
+    Right:
+    - Title: "\uD6C4\uBCF4 A"
+      Body: "\uAE38\uC774                 7.8 m\n\uAD7D\uD798                 5\uAC1C"
+      Badge: "\uB370\uBAA8 \uD6C4\uBCF4"
+    - Title: "\uD6C4\uBCF4 B"
+      Body: "\uAE38\uC774                 8.2 m\n\uAD7D\uD798                 3\uAC1C"
+      Badge: "\uB370\uBAA8 \uD6C4\uBCF4"
+    - Title: "\uD6C4\uBCF4 C"
+      Body: "\uAE38\uC774                 8.6 m\n\uAD7D\uD798                 4\uAC1C"
+      Badge: "\uB370\uBAA8 \uD6C4\uBCF4"
+  - Stage: 5
+    PageName: LocalReroutingPage
+    NavigationLabel: "\uAD6D\uC18C \uC7AC\uC124\uACC4"
+    Title: "\uAD6D\uC18C \uC7AC\uC124\uACC4"
+    Subtitle: "\uBB38\uC81C \uAD6C\uAC04\uACFC \uB300\uCCB4 \uACBD\uB85C \uD6C4\uBCF4\uB97C
+      \uBE44\uAD50\uD558\uB294 \uC791\uC5C5 \uACF5\uAC04"
+    ShowsWorld: 1
+    SplitCenter: 0
+    Left:
+    - Title: "\uC7AC\uC124\uACC4 \uB300\uC0C1"
+      Body: "\uBC30\uAD00     PIPE_003\n\uBB38\uC81C     \uAD6C\uC870\uBB3C \uCDA9\uB3CC\n\uC2DC\uC791    
+        NODE_A\n\uB05D        NODE_B"
+      Badge: "\uB370\uBAA8 \uBB38\uC81C"
+    - Title: "\uC124\uACC4 \uC81C\uC57D\uC870\uAC74"
+      Body: "\uCD5C\uC18C \uC5EC\uC720 \uAC04\uACA9  \u2265 150 mm\n\uC9C1\uAD50
+        \uACBD\uB85C          \uC720\uC9C0\n\uC2DC\uC791 / \uB05D \uB178\uB4DC   
+        \uC720\uC9C0"
+      Badge: "\uC608\uC2DC \uC870\uAC74"
+    Center:
+    - Title: "\uACBD\uB85C \uBE44\uAD50 \uBC94\uB840"
+      Body: "\uD604\uC7AC \uACBD\uB85C    \u25CF \uBE68\uAC15\n\uD6C4\uBCF4 A       
+        \u25CF \uCD08\uB85D\n\uD6C4\uBCF4 B        \u25CF \uC2DC\uC548\n\uD6C4\uBCF4
+        C        \u25CF \uD30C\uB791\n\n\uBC94\uB840\uB9CC \uD45C\uC2DC\uD558\uBA70
+        \uACBD\uB85C \uC120\uC740 \uBBF8\uAD6C\uD604\uC785\uB2C8\uB2E4."
+      Badge: "\uB370\uBAA8 \uBE44\uAD50"
+    Right:
+    - Title: "\uD6C4\uBCF4 A"
+      Body: "\uAE38\uC774             3.2 m\n\uAD7D\uD798             3\uAC1C\n\uCDA9\uB3CC            
+        0\uAC1C\n\uC5EC\uC720 \uAC04\uACA9      100 mm\n\uBE44\uC6A9 \uCD94\uC815\uCE58  
+        42"
+      Badge: "\uCD94\uCC9C \xB7 \uB370\uBAA8"
+    - Title: "\uD6C4\uBCF4 B"
+      Body: "\uAE38\uC774             3.5 m\n\uAD7D\uD798             2\uAC1C\n\uCDA9\uB3CC            
+        0\uAC1C\n\uC5EC\uC720 \uAC04\uACA9      140 mm\n\uBE44\uC6A9 \uCD94\uC815\uCE58  
+        44"
+      Badge: "\uB370\uBAA8 \uD3C9\uAC00"
+    - Title: "\uD6C4\uBCF4 C"
+      Body: "\uAE38\uC774             3.9 m\n\uAD7D\uD798             3\uAC1C\n\uCDA9\uB3CC            
+        0\uAC1C\n\uC5EC\uC720 \uAC04\uACA9      220 mm\n\uBE44\uC6A9 \uCD94\uC815\uCE58  
+        48"
+      Badge: "\uB370\uBAA8 \uD3C9\uAC00"
+  - Stage: 6
+    PageName: ResultComparePage
+    NavigationLabel: "\uACB0\uACFC \uBE44\uAD50"
+    Title: "\uACB0\uACFC \uBE44\uAD50"
+    Subtitle: "\uC6D0\uBCF8 \uACBD\uB85C\uC640 \uD6C4\uBCF4 B\uC758 \uC608\uC2DC
+      \uBE44\uAD50 \uAC12"
+    ShowsWorld: 0
+    SplitCenter: 1
+    Left:
+    - Title: "\uBCC0\uACBD \uC694\uC57D"
+      Body: "\uB300\uC0C1 \uBC30\uAD00  PIPE_003\n\uAE30\uC874 \uACBD\uB85C  \uC6D0\uBCF8
+        \uACBD\uB85C\n\uC120\uD0DD \uD6C4\uBCF4  \uD6C4\uBCF4 B"
+      Badge: "\uB370\uBAA8 \uBE44\uAD50"
+    - Title: "\uAC80\uD1A0 \uD56D\uBAA9"
+      Body: "\uAE38\uC774 / \uAD7D\uD798 / \uCDA9\uB3CC\n\uCD5C\uC18C \uC5EC\uC720
+        \uAC04\uACA9\n\uC555\uB825\uC190\uC2E4 \uCD94\uC815\uCE58\n\uC7AC\uB8CC\uBE44
+        \uCD94\uC815\uCE58"
+      Badge: 
+    Center:
+    - Title: "\uBCC0\uACBD \uC804 \xB7 \uC6D0\uBCF8 \uACBD\uB85C"
+      Body: "\uAE38\uC774                  4.1 m\n\n\uAD7D\uD798                 
+        5\uAC1C\n\n\uCDA9\uB3CC                  1\uAC1C\n\n\uCD5C\uC18C \uC5EC\uC720
+        \uAC04\uACA9   20 mm\n\n\uC555\uB825\uC190\uC2E4 \uCD94\uC815    0.55\n\n\uBE44\uC6A9
+        \uCD94\uC815          50"
+      Badge: "\uBCC0\uACBD \uC804"
+    - Title: "\uBCC0\uACBD \uD6C4 \xB7 \uD6C4\uBCF4 B"
+      Body: "\uAE38\uC774                  3.5 m\n\n\uAD7D\uD798                 
+        2\uAC1C\n\n\uCDA9\uB3CC                  0\uAC1C\n\n\uCD5C\uC18C \uC5EC\uC720
+        \uAC04\uACA9   140 mm\n\n\uC555\uB825\uC190\uC2E4 \uCD94\uC815    0.40\n\n\uBE44\uC6A9
+        \uCD94\uC815          44"
+      Badge: "\uBCC0\uACBD \uD6C4"
+    Right:
+    - Title: "\uAC1C\uC120 \uD6A8\uACFC"
+      Body: "\uAE38\uC774                 -14.6%\n\n\uAD7D\uD798                
+        -60%\n\n\uCDA9\uB3CC                 1 \u2192 0\n\n\uC5EC\uC720 \uAC04\uACA9        
+        +120 mm\n\n\uC555\uB825\uC190\uC2E4 \uCD94\uC815   -27%\n\n\uBE44\uC6A9 \uCD94\uC815        
+        -12%"
+      Badge: "\uB370\uBAA8 \uC218\uCE58"
+    - Title: "\uBE44\uAD50 \uAE30\uC900"
+      Body: "\uD45C\uC2DC \uAC12\uC740 \uC900\uBE44\uB41C Mock \uAC12\uC785\uB2C8\uB2E4.\n\n\uACC4\uC0B0
+        \uBC0F \uC124\uACC4 \uC801\uD569 \uD310\uC815\uC740\n\uC218\uD589\uD558\uC9C0
+        \uC54A\uC2B5\uB2C8\uB2E4."
+      Badge: 
+  - Stage: 7
+    PageName: ApprovalHistoryPage
+    NavigationLabel: "\uC2B9\uC778 / \uC774\uB825"
+    Title: "\uC2B9\uC778 \uBC0F \uBCC0\uACBD \uC774\uB825"
+    Subtitle: "\uC124\uACC4\uC790 \uACB0\uC815\uACFC \uBCC0\uACBD \uAE30\uB85D\uC744
+      \uD45C\uC2DC\uD560 \uD654\uBA74"
+    ShowsWorld: 0
+    SplitCenter: 0
+    Left:
+    - Title: "\uB9AC\uBE44\uC804 \uBAA9\uB85D"
+      Body: "REV.A   \uC6D0\uBCF8\n\nREV.B   PIPE_003\n             \uD6C4\uBCF4
+        B\n             \uC2B9\uC778\uB428 (\uB370\uBAA8)"
+      Badge: "\uB370\uBAA8 \uC774\uB825"
+    Center:
+    - Title: "\uB9AC\uBE44\uC804 \uC0C1\uC138"
+      Body: "\uB9AC\uBE44\uC804     REV.B\n\n\uB300\uC0C1         PIPE_003\n\n\uBCC0\uACBD
+        \uC804     ORIGINAL_PIPE_003\n\n\uBCC0\uACBD \uD6C4     CAND_B\n\n\uACB0\uC815        
+        \uC2B9\uC778\uB428 (\uB370\uBAA8)\n\n\uC0AC\uC720         \uCDA9\uB3CC \uC81C\uAC70
+        \uBC0F \uAD7D\uD798 \uAC10\uC18C"
+      Badge: "\uAC80\uD1A0 \uAE30\uB85D"
+    Right:
+    - Title: "\uC124\uACC4\uC790 \uACB0\uC815"
+      Body: "\uC120\uD0DD \uD6C4\uBCF4  \uD6C4\uBCF4 B\n\uD604\uC7AC \uC0C1\uD0DC 
+        \uAC80\uD1A0 \uB300\uAE30\n\n\uBC84\uD2BC\uC740 \uD654\uBA74 \uC0C1\uD0DC\uB9CC
+        \uBCC0\uACBD\uD569\uB2C8\uB2E4."
+      Badge: "\uB370\uBAA8 \uC2B9\uC778"
+    - Title: "\uC6D0\uBCF8 \uBCF4\uD638"
+      Body: "\uC6D0\uBCF8 \u2192 \uC791\uC5C5 \uC0AC\uBCF8 \u2192 \uB9AC\uBE44\uC804\n\n\uC2E4\uC81C
+        \uC800\uC7A5 \uBC0F \uC774\uB825 \uC0DD\uC131\uC740\n\uC5F0\uACB0 \uC608\uC815\uC785\uB2C8\uB2E4."
+      Badge: 
