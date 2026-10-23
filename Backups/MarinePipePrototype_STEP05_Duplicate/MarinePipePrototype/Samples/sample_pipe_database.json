@@ -1,0 +1,32 @@
+{
+  "pipes": [
+    {
+      "id": "CW-1001",
+      "system": "Cooling",
+      "outerDiameterM": 0.219,
+      "wallThicknessM": 0.008,
+      "bendRadiusM": 0.40,
+      "valve": true,
+      "waypoints": [
+        {"x": -6, "y": 1.6, "z": 0},
+        {"x": 0, "y": 1.6, "z": 0},
+        {"x": 0, "y": 1.6, "z": 4},
+        {"x": 5, "y": 1.6, "z": 4}
+      ]
+    },
+    {
+      "id": "FW-2001",
+      "system": "FireMain",
+      "outerDiameterM": 0.168,
+      "wallThicknessM": 0.006,
+      "bendRadiusM": 0.28,
+      "valve": false,
+      "waypoints": [
+        {"x": -6, "y": 2.5, "z": 1},
+        {"x": -1, "y": 2.5, "z": 1},
+        {"x": -1, "y": 4, "z": 1},
+        {"x": 6, "y": 4, "z": 1}
+      ]
+    }
+  ]
+}
